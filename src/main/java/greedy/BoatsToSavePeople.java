@@ -27,6 +27,7 @@ import java.util.*;
  * boat and increment the boat counter. Use TreeMap and sorting to achieve this easily
  */
 public class BoatsToSavePeople {
+
   public static void main(String[] args) {
     int[] A = {3, 5, 3, 4};
     System.out.println(new BoatsToSavePeople().numRescueBoats(A, 8));
